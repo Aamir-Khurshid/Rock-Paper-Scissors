@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    margin: 200px 200px;
+}
+
+#info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+#info-sign{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+#info-sign img{
+    width: 100px;
+}
+h1{
+    background-color: yellowgreen;
+    border: 2px solid black;
+    display: inline-block;
+    padding: 20px 30px;
+}
